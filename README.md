@@ -1,2 +1,4 @@
 # FirstGitHub-Demo
-Today i made  first repo in git hub
+Today i made  first repo in git hub 
+Author Name-HrusikeshPanda
+
